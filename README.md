@@ -11,3 +11,4 @@ Topics covered: SOC Analysis, IBM Cybersecurity, TryHackMe.
 | Day 4 | Authentication & Access Control (IAM) | day-04-authentication-access-control.md |
 | Day 5 | Cisco Cybersecurity Fundamentals — Module 1 | day-05-cisco-cybersecurity-fundamentals.md |
 | Day 6 | Windows Server, Active Directory & MMC | day-06-windows-server-active-directory.md |
+| Day 7 | Security Monitoring, Threat Hunting & Incident Response | day-07-security-monitoring-incident-response.md |
