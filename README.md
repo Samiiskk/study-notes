@@ -14,3 +14,4 @@ Topics covered: SOC Analysis, IBM Cybersecurity, TryHackMe.
 | Day 7 | Security Monitoring, Threat Hunting & Incident Response | day-07-security-monitoring-incident-response.md |
 | Day 8 | Endpoint Security & OS Hardening | day-08-endpoint-security-hardening.md |
 | Day 9 | Network Security, Attack Patterns & Incident Response | day-09-network-security-incident-response.md |
+| Day 10 | Active Directory, Windows Security & Kerberos | day-10-active-directory-windows-security.md |
