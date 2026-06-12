@@ -1,4 +1,4 @@
-# Day 10 — Linux, macOS, Virtualization & Cloud Computing
+# Day 11 — Linux, macOS, Virtualization & Cloud Computing
 
 **Date:** June 12, 2026
 **Source:** IBM Cybersecurity Analyst — Operating Systems: Overview,
