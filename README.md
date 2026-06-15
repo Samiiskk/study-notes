@@ -16,3 +16,4 @@ Topics covered: SOC Analysis, IBM Cybersecurity, TryHackMe.
 | Day 9 | Network Security, Attack Patterns & Incident Response | day-09-network-security-incident-response.md |
 | Day 10 | Active Directory, Windows Security & Kerberos | day-10-active-directory-windows-security.md |
 | Day 11 | Linux, macOS, Virtualization & Cloud Computing | day-10-linux-macos-virtualization-cloud.md |
+| Day 12 | Computer Networks, Hardware & Protocols | day-12-networking-hardware-protocols.md |
