@@ -18,3 +18,4 @@ Topics covered: SOC Analysis, IBM Cybersecurity, TryHackMe.
 | Day 11 | Linux, macOS, Virtualization & Cloud Computing | day-10-linux-macos-virtualization-cloud.md |
 | Day 12 | Computer Networks, Hardware & Protocols | day-12-networking-hardware-protocols.md |
 | Day 13 | IP Addressing, Routing & ARP | day-13-ip-addressing-routing.md |
+| Day 14 | IT Risk Assessment & Management | day-14-it-risk-assessment.md |
