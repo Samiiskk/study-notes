@@ -19,3 +19,4 @@ Topics covered: SOC Analysis, IBM Cybersecurity, TryHackMe.
 | Day 12 | Computer Networks, Hardware & Protocols | day-12-networking-hardware-protocols.md |
 | Day 13 | IP Addressing, Routing & ARP | day-13-ip-addressing-routing.md |
 | Day 14 | IT Risk Assessment & Management | day-14-it-risk-assessment.md |
+| Day 15 | Advanced Risk Management & Threat Detection | day-15-advanced-risk-management.md |
