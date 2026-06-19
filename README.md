@@ -1,7 +1,7 @@
 # Study Notes
 
 Daily notes from my cybersecurity learning journey.
-Topics covered: SOC Analysis, IBM Cybersecurity, TryHackMe.
+Topics covered: SOC Analysis, IBM Cybersecurity.
 
 | Day | Topic | File |
 |-----|-------|------|
@@ -20,3 +20,4 @@ Topics covered: SOC Analysis, IBM Cybersecurity, TryHackMe.
 | Day 13 | IP Addressing, Routing & ARP | day-13-ip-addressing-routing.md |
 | Day 14 | IT Risk Assessment & Management | day-14-it-risk-assessment.md |
 | Day 15 | Advanced Risk Management & Threat Detection | day-15-advanced-risk-management.md |
+| Day 16 | Incident Response & SOC Operations | day-16-incident-response-soc.md |
