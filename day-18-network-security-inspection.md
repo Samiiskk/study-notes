@@ -1,7 +1,7 @@
 # Day 18 — Network Security: Inspection & Advanced Filtering
 
 **Date:** June 24, 2026
-**Source:** Network Security & Database Vulnerabilities (Module 3 continued)
+**Source:** Network Security & Database Vulnerabilities - Completed 
 
 ---
 
