@@ -22,3 +22,4 @@ Topics covered: SOC Analysis, IBM Cybersecurity.
 | Day 15 | Advanced Risk Management & Threat Detection | day-15-advanced-risk-management.md |
 | Day 16 | Incident Response & SOC Operations | day-16-incident-response-soc.md |
 | Day 17 | Network Protocols, DNS, DHCP & Network Analysis | day-17-network-protocols-dns-dhcp.md |
+| Day 18 | Network Security Inspection & Advanced Filtering | day-18-network-security-inspection.md |
